@@ -22,3 +22,8 @@ The function returns dydt, a vector representing the time derivatives of the sta
 
 The function computes the time derivatives (dydt) for each state variable using the given parameters and coupling constants.
 The specific differential equations for each variable are based on the QIF (Quadratic Integrate-and-Fire) neuron model with additional terms for synaptic and dopamine dynamics.
+
+Reference:
+A neural mass model with neuromodulation
+Damien Depannemaecker, Chloe Duprat, Marianna Angiolelli, Carola Sales Carbonell, Huifang Wang, Spase Petkoski, Pierpaolo Sorrentino, Hiba Sheheitli, Viktor Jirsa
+bioRxiv 2024.06.23.600260; doi: https://doi.org/10.1101/2024.06.23.600260
